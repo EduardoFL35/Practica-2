@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    padding: 90px 20px 0;
+}
+
+h1{
+    font-family: monospace;
+    color:white;
+    text-align: center;
+}
+
+h2{
+    font-family: monospace;
+    color:white;
+    text-align: center;
+}
+
+h3{
+    font-family: monospace;
+    color:white;
+    text-align: center;
+}
+
+p{
+    font-family: monospace;
+    color:white;
+}
+.imagenes{
+    text-align: center;
+}
+
+.imagen-text{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
